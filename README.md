@@ -8,7 +8,7 @@
   - :page_with_curl: **H. Xie**, O. Räsänen, K. Drossos and T. Virtanen, "Unsupervised Audio-Caption Aligning Learns Correspondences Between Individual Sound Events and Textual Phrases," in Proc. Int. Conf. Acoustic., Speech and Signal Process. (ICASSP), 2022, pp. 8867-8871.
   - :page_with_curl: **H. Xie**, O. Räsänen and T. Virtanen, "Zero-Shot Audio Classification with Factored Linear and Nonlinear Acoustic-Semantic Projections," in Proc. Int. Conf. Acoustic., Speech and Signal Process. (ICASSP), 2021, pp. 326-330.
   - :page_with_curl: **H. Xie** and T. Virtanen, "Zero-Shot Audio Classification Via Semantic Embeddings," in IEEE/ACM Trans. Audio Speech Lang. Process., vol. 29, pp. 1233-1242, 2021.
-  - :page_with_curl: **H. Xie** and T. Virtanen, "Zero-Shot Audio Classification Based On Class Label Embeddings," in Proc. IEEE Workshop Appl. Signal Process. Audio and Acoustic. (WASPAA), 2019, pp. 264–267.
+  - :page_with_curl: **H. Xie** and T. Virtanen, "Zero-Shot Audio Classification Based On Class Label Embeddings," in Proc. IEEE Workshop Appl. Signal Process. Audio and Acoustic. (WASPAA), 2019, pp. 264-267.
 - :pushpin: My previous work
   - :man_office_worker: I was one of the coordinators for [DCASE 2022 Challenge Task 6](https://dcase.community/challenge2022/task-automatic-audio-captioning-and-language-based-audio-retrieval).
 <!-- :bookmark_tabs: -->
