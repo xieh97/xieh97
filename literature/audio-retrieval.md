@@ -2,6 +2,17 @@
 
 ### 2023
 
+* [Audio-Text Models Do Not Yet Leverage Natural Language](https://arxiv.org/abs/2303.10667)
+
+```bibtex
+@unpublished{Wu2023AudioText,
+    author = {Wu, Ho-Hsiang and Nieto, Oriol and Bello, Juan and Salamon, Justin},
+    title = {Audio-Text Models Do Not Yet Leverage Natural Language},
+    year = {2023},
+    note = {\href{http://arxiv.org/abs/2303.10667}{arXiv preprint arXiv:2303.10667}}
+}
+```
+
 * [BLAT: Bootstrapping Language-Audio Pre-training based on AudioSet Tag-guided Synthetic Data](https://arxiv.org/abs/2303.07902)
 
 ```bibtex
