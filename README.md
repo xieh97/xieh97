@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-- :calendar: I am currently a PhD student, specializing in **machine learning**, **audio processing**, and **natural language processing**, with a particular focus on **language-based audio retrieval**.
+- :calendar: I am currently a PhD student specializing in **Machine Learning**, **Audio Processing**, and **Natural Language Processing**, with a particular focus on **Audio Language Modeling**, **Text-to-Audio Retrieval**, and **Multimodal Learning**.
 - :dart: My Interests
     - :game_die: Machine Learning (PyTorch, scikit-learn, ...)
     - :chart_with_upwards_trend: Data Analysis (numpy, scipy, pandas, ...)
@@ -16,5 +16,5 @@
     - :page_with_curl: **H. Xie** and T. Virtanen, "Zero-Shot Audio Classification Via Semantic Embeddings," in IEEE/ACM Trans. Audio Speech Lang. Process., vol. 29, pp. 1233-1242, 2021. [arXiv](https://arxiv.org/abs/2011.12133)
     - :page_with_curl: **H. Xie** and T. Virtanen, "Zero-Shot Audio Classification Based On Class Label Embeddings," in Proc. IEEE Workshop Appl. Signal Process. Audio and Acoustic. (WASPAA), 2019, pp. 264-267. [arXiv](https://arxiv.org/abs/1905.01926)
 - :pushpin: My Activities
-    - :trophy: Task coordinator for DCASE Challenge 2022 ([Task 6](https://dcase.community/challenge2022/task-automatic-audio-captioning-and-language-based-audio-retrieval)), 2023 ([Task 6](https://dcase.community/challenge2023/task-automated-audio-captioning-and-language-based-audio-retrieval)), and 2024 ([Task 8](https://dcase.community/challenge2024/task-language-based-audio-retrieval)).
+    - :trophy: Task coordinator for Language-based Audio Retrieval in DCASE Challenge 2022 ([Task 6](https://dcase.community/challenge2022/task-automatic-audio-captioning-and-language-based-audio-retrieval)), 2023 ([Task 6](https://dcase.community/challenge2023/task-automated-audio-captioning-and-language-based-audio-retrieval)), and 2024 ([Task 8](https://dcase.community/challenge2024/task-language-based-audio-retrieval)).
 
