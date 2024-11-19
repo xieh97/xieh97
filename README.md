@@ -1,8 +1,8 @@
 ### Hi there :wave:
 
-- :calendar: I'm a PhD student specializing in **Machine Learning**, **Audio Processing**, and **Natural Language Processing**, with a particular focus on **Audio-Language Representation Learning**, **Text-Audio Information Retrieval**, and **Multimodal Learning**.
+- :calendar: I'm a PhD student specializing in **Machine Learning**, **Audio Processing**, and **Natural Language Processing**, with a particular focus on **Audio-Language Learning**, **Audio Information Retrieval**, and **Multimodal Learning**.
 - :dart: My Interests
-    - :game_die: **Machine Learning / Deep Learning** (pytorch, scikit-learn, ...)
+    - :game_die: **Machine Learning / Deep Learning** (pytorch, mlflow, scikit-learn, ...)
     - :chart_with_upwards_trend: **Data Analysis** (numpy, scipy, pandas, ...)
     - :bookmark_tabs: **NLP & Text Analysis** (nltk, ...)
     - :bar_chart: **Visualization** (matplotlib, ...)
