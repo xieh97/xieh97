@@ -1,23 +1,40 @@
-### Hi there :wave:
+# Hello World! :wave: I'm Huang Xie (谢晃)
 
-- :calendar: I'm a PhD student specializing in **Machine Learning and Signal Processing**, with a particular focus on **Audio-Language Learning** and **Audio Information Retrieval**. My research interests include _contrastive learning_, _zero-shot learning_, _multimodal learning_, _language-based audio retrieval_, and _audio classification_.
-- :dart: My Interests
-    - :game_die: **Machine Learning / Deep Learning** (pytorch, mlflow, ray, scikit-learn, ...)
-    - :chart_with_upwards_trend: **Data Analysis** (numpy, scipy, pandas, ...)
-    - :bookmark_tabs: **Audio & Text Analysis** (librosa, nltk, ...)
-    - :bar_chart: **Visualization** (matplotlib, ...)
-    - :rocket: **Software Development** (Django, Spring, Hibernate, ...)
-    - :computer: **Programming** (Python, Java, JavaScript, SQL, ...)
-- :blue_book: My Publications
-    - :page_with_curl: **H. Xie**, K. Khorrami, O. Räsänen, and T. Virtanen, "Text-based Audio Retrieval by Learning from Similarities between Audio Captions," Accepted by IEEE Signal Processing Letters.
-    - :page_with_curl: **H. Xie**, K. Khorrami, O. Räsänen, and T. Virtanen, "Integrating Continuous and Binary Relevances in Audio-Text Relevance Learning," in Proc. Detect. Classif. Acoust. Scenes Events Work. (DCASE), 2024, pp. 201-205. [arXiv](https://arxiv.org/abs/2408.14939)
-    - :page_with_curl: **H. Xie**, K. Khorrami, O. Räsänen, and T. Virtanen, "Crowdsourcing and Evaluating Text-Based Audio Retrieval Relevances," in Proc. Detect. Classif. Acoust. Scenes Events Work. (DCASE), 2023, pp. 226-230. [arXiv](https://arxiv.org/abs/2306.09820)
-    - :page_with_curl: **H. Xie**, O. Räsänen, and T. Virtanen, "On Negative Sampling for Contrastive Audio-Text Retrieval," in Proc. Int. Conf. Acoustic., Speech and Signal Process. (ICASSP), 2023, pp. 1-5. [arXiv](https://arxiv.org/abs/2211.04070)
-    - :page_with_curl: **H. Xie**, S. Lipping, and T. Virtanen, "Language-based Audio Retrieval Task in DCASE 2022 Challenge," in Proc. Detect. Classif. Acoust. Scenes Events Work. (DCASE), 2022, pp. 216-220. [arXiv](https://arxiv.org/abs/2206.06108)
-    - :page_with_curl: **H. Xie**, O. Räsänen, K. Drossos, and T. Virtanen, "Unsupervised Audio-Caption Aligning Learns Correspondences Between Individual Sound Events and Textual Phrases," in Proc. Int. Conf. Acoustic., Speech and Signal Process. (ICASSP), 2022, pp. 8867-8871. [arXiv](https://arxiv.org/abs/2110.02939)
-    - :page_with_curl: **H. Xie**, O. Räsänen, and T. Virtanen, "Zero-Shot Audio Classification with Factored Linear and Nonlinear Acoustic-Semantic Projections," in Proc. Int. Conf. Acoustic., Speech and Signal Process. (ICASSP), 2021, pp. 326-330. [arXiv](https://arxiv.org/abs/2011.12657)
-    - :page_with_curl: **H. Xie** and T. Virtanen, "Zero-Shot Audio Classification via Semantic Embeddings," in IEEE/ACM Trans. Audio Speech Lang. Process., vol. 29, pp. 1233-1242, 2021. [arXiv](https://arxiv.org/abs/2011.12133)
-    - :page_with_curl: **H. Xie** and T. Virtanen, "Zero-Shot Audio Classification Based on Class Label Embeddings," in Proc. Work. Appl. Signal Process. Audio and Acoustic. (WASPAA), 2019, pp. 264-267. [arXiv](https://arxiv.org/abs/1905.01926)
-- :pushpin: My Activities
-    - :trophy: Task coordinator for Language-based Audio Retrieval in DCASE Challenge 2022 ([Task 6](https://dcase.community/challenge2022/task-automatic-audio-captioning-and-language-based-audio-retrieval)), 2023 ([Task 6](https://dcase.community/challenge2023/task-automated-audio-captioning-and-language-based-audio-retrieval)), and 2024 ([Task 8](https://dcase.community/challenge2024/task-language-based-audio-retrieval)).
+## :sparkles: About Me
 
+I'm a PhD student specializing in **Machine Learning and Signal Processing**, with a particular focus on **Audio-Language Learning** and **Audio Information Retrieval**.
+My research involves _contrastive learning_, _zero-shot learning_, _multimodal learning_, _language-based audio retrieval_, and _audio classification_.
+
+## :fire: Research Interests
+
+- **Audio-Language Learning** focuses on building systems that connect audio signals with natural language, enabling seamless interpretation and interaction across these modalities. It involves techniques that align audio features with textual representations, allowing for tasks such as audio captioning, language-based audio retrieval, and audio question answering.
+- **Audio Information Retrieval** is the process of analyzing and retrieving information from audio content, such as music, speech, or environmental sounds. It encompasses tasks like sound classification, music recommendation, and similarity-based retrieval, facilitating the organization, retrieval, and utilization of audio data in industries ranging from entertainment to security.
+
+## :dart: Tech and Interests
+
+- :game_die: **Machine Learning / Deep Learning** (pytorch, mlflow, ray, scikit-learn, ...)
+- :chart_with_upwards_trend: **Data Analysis** (numpy, scipy, pandas, ...)
+- :bookmark_tabs: **Audio & Text Analysis** (librosa, nltk, ...)
+- :bar_chart: **Visualization** (matplotlib, ...)
+- :rocket: **Software Development** (Django, Spring, Hibernate, ...)
+- :computer: **Programming** (Python, Java, JavaScript, SQL, ...)
+
+## :books: Publications
+
+- :tada: **H. Xie**, K. Khorrami, O. Räsänen, and T. Virtanen, "Text-based Audio Retrieval by Learning from Similarities between Audio Captions," Accepted by IEEE Signal Processing Letters.
+- :page_with_curl: **H. Xie**, K. Khorrami, O. Räsänen, and T. Virtanen, "Integrating Continuous and Binary Relevances in Audio-Text Relevance Learning," in Proc. Detect. Classif. Acoust. Scenes Events Work. (DCASE), 2024, pp. 201-205. [arXiv](https://arxiv.org/abs/2408.14939)
+- :page_with_curl: **H. Xie**, K. Khorrami, O. Räsänen, and T. Virtanen, "Crowdsourcing and Evaluating Text-Based Audio Retrieval Relevances," in Proc. Detect. Classif. Acoust. Scenes Events Work. (DCASE), 2023, pp. 226-230. [arXiv](https://arxiv.org/abs/2306.09820)
+- :page_with_curl: **H. Xie**, O. Räsänen, and T. Virtanen, "On Negative Sampling for Contrastive Audio-Text Retrieval," in Proc. Int. Conf. Acoustic., Speech and Signal Process. (ICASSP), 2023, pp. 1-5. [arXiv](https://arxiv.org/abs/2211.04070)
+- :page_with_curl: **H. Xie**, S. Lipping, and T. Virtanen, "Language-based Audio Retrieval Task in DCASE 2022 Challenge," in Proc. Detect. Classif. Acoust. Scenes Events Work. (DCASE), 2022, pp. 216-220. [arXiv](https://arxiv.org/abs/2206.06108)
+- :page_with_curl: **H. Xie**, O. Räsänen, K. Drossos, and T. Virtanen, "Unsupervised Audio-Caption Aligning Learns Correspondences Between Individual Sound Events and Textual Phrases," in Proc. Int. Conf. Acoustic., Speech and Signal Process. (ICASSP), 2022, pp. 8867-8871. [arXiv](https://arxiv.org/abs/2110.02939)
+- :page_with_curl: **H. Xie**, O. Räsänen, and T. Virtanen, "Zero-Shot Audio Classification with Factored Linear and Nonlinear Acoustic-Semantic Projections," in Proc. Int. Conf. Acoustic., Speech and Signal Process. (ICASSP), 2021, pp. 326-330. [arXiv](https://arxiv.org/abs/2011.12657)
+- :page_with_curl: **H. Xie** and T. Virtanen, "Zero-Shot Audio Classification via Semantic Embeddings," in IEEE/ACM Trans. Audio Speech Lang. Process., vol. 29, pp. 1233-1242, 2021. [arXiv](https://arxiv.org/abs/2011.12133)
+- :page_with_curl: **H. Xie** and T. Virtanen, "Zero-Shot Audio Classification Based on Class Label Embeddings," in Proc. Work. Appl. Signal Process. Audio and Acoustic. (WASPAA), 2019, pp. 264-267. [arXiv](https://arxiv.org/abs/1905.01926)
+
+## :pushpin: Activities
+
+- :trophy: Task coordinator for Language-based Audio Retrieval in DCASE Challenge 2022 ([Task 6](https://dcase.community/challenge2022/task-automatic-audio-captioning-and-language-based-audio-retrieval)), 2023 ([Task 6](https://dcase.community/challenge2023/task-automated-audio-captioning-and-language-based-audio-retrieval)), and 2024 ([Task 8](https://dcase.community/challenge2024/task-language-based-audio-retrieval)).
+
+## :zap: Connect with Me
+
+Under construction
