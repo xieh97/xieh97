@@ -12,16 +12,16 @@ My research involves _contrastive learning_, _zero-shot learning_, _multimodal l
 
 ## :dart: Tech and Interests
 
-- :game_die: **Machine Learning / Deep Learning** (pytorch, mlflow, ray, scikit-learn, ...)
-- :chart_with_upwards_trend: **Data Analysis** (numpy, scipy, pandas, ...)
-- :bookmark_tabs: **Audio & Text Analysis** (librosa, nltk, ...)
-- :bar_chart: **Visualization** (matplotlib, ...)
-- :rocket: **Software Development** (Django, Spring, Hibernate, ...)
-- :computer: **Programming** (Python, Java, JavaScript, SQL, ...)
+- :game_die: **Machine Learning / Deep Learning** ([PyTorch](https://pytorch.org/), [MLflow](https://mlflow.org/), [Ray Tune](https://docs.ray.io/en/latest/tune/index.html), [scikit-learn](https://scikit-learn.org/), etc.)
+- :chart_with_upwards_trend: **Data Analysis** ([NumPy](https://numpy.org/), [SciPy](https://scipy.org/), [pandas](https://pandas.pydata.org/), etc.)
+- :bookmark_tabs: **Audio & Text Analysis** ([librosa](https://librosa.org/), [NLTK](https://www.nltk.org/), etc.)
+- :bar_chart: **Visualization** ([matplotlib](https://matplotlib.org/), etc.)
+- :rocket: **Software Development** ([Django](https://www.djangoproject.com/), [Spring](https://spring.io/), [Hibernate](https://hibernate.org/), etc.)
+- :computer: **Programming** (Python, Java, JavaScript, SQL, etc.)
 
 ## :books: Publications
 
-- :tada: **H. Xie**, K. Khorrami, O. Räsänen, and T. Virtanen, "Text-based Audio Retrieval by Learning from Similarities between Audio Captions," Accepted by IEEE Signal Processing Letters.
+- :page_with_curl: **H. Xie**, K. Khorrami, O. Räsänen, and T. Virtanen, "Text-based Audio Retrieval by Learning from Similarities between Audio Captions," Accepted by IEEE Signal Processing Letters. :fire::fire::fire:
 - :page_with_curl: **H. Xie**, K. Khorrami, O. Räsänen, and T. Virtanen, "Integrating Continuous and Binary Relevances in Audio-Text Relevance Learning," in Proc. Detect. Classif. Acoust. Scenes Events Work. (DCASE), 2024, pp. 201-205. [arXiv](https://arxiv.org/abs/2408.14939)
 - :page_with_curl: **H. Xie**, K. Khorrami, O. Räsänen, and T. Virtanen, "Crowdsourcing and Evaluating Text-Based Audio Retrieval Relevances," in Proc. Detect. Classif. Acoust. Scenes Events Work. (DCASE), 2023, pp. 226-230. [arXiv](https://arxiv.org/abs/2306.09820)
 - :page_with_curl: **H. Xie**, O. Räsänen, and T. Virtanen, "On Negative Sampling for Contrastive Audio-Text Retrieval," in Proc. Int. Conf. Acoustic., Speech and Signal Process. (ICASSP), 2023, pp. 1-5. [arXiv](https://arxiv.org/abs/2211.04070)
@@ -31,10 +31,12 @@ My research involves _contrastive learning_, _zero-shot learning_, _multimodal l
 - :page_with_curl: **H. Xie** and T. Virtanen, "Zero-Shot Audio Classification via Semantic Embeddings," in IEEE/ACM Trans. Audio Speech Lang. Process., vol. 29, pp. 1233-1242, 2021. [arXiv](https://arxiv.org/abs/2011.12133)
 - :page_with_curl: **H. Xie** and T. Virtanen, "Zero-Shot Audio Classification Based on Class Label Embeddings," in Proc. Work. Appl. Signal Process. Audio and Acoustic. (WASPAA), 2019, pp. 264-267. [arXiv](https://arxiv.org/abs/1905.01926)
 
-## :pushpin: Activities
+## :trophy: Activities
 
-- :trophy: Task coordinator for Language-based Audio Retrieval in DCASE Challenge 2022 ([Task 6](https://dcase.community/challenge2022/task-automatic-audio-captioning-and-language-based-audio-retrieval)), 2023 ([Task 6](https://dcase.community/challenge2023/task-automated-audio-captioning-and-language-based-audio-retrieval)), and 2024 ([Task 8](https://dcase.community/challenge2024/task-language-based-audio-retrieval)).
+- :technologist: Task coordinator for Language-based Audio Retrieval in DCASE Challenge 2024 ([Task 8](https://dcase.community/challenge2024/task-language-based-audio-retrieval)).
+- :technologist: Task coordinator for Automated Audio Captioning and Language-based Audio Retrieval in DCASE Challenge 2023 ([Task 6](https://dcase.community/challenge2023/task-automated-audio-captioning-and-language-based-audio-retrieval)).
+- :technologist: Task coordinator for Automated Audio Captioning and Language-based Audio Retrieval in DCASE Challenge 2022 ([Task 6](https://dcase.community/challenge2022/task-automatic-audio-captioning-and-language-based-audio-retrieval)).
 
-## :zap: Connect with Me
+## :speech_balloon: Connect with Me
 
-Under construction
+- :email: Drop me an email at huang.xie@outlook.com
