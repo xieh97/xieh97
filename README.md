@@ -21,7 +21,7 @@ My research involves _contrastive learning_, _zero-shot learning_, _multimodal l
 
 ## :books: Publications
 
-- :page_with_curl: **H. Xie**, K. Khorrami, O. Räsänen, and T. Virtanen, "Text-based Audio Retrieval by Learning from Similarities between Audio Captions," Accepted by IEEE Signal Processing Letters. :fire::fire::fire:
+- :page_with_curl: **H. Xie**, K. Khorrami, O. Räsänen and T. Virtanen, "Text-Based Audio Retrieval by Learning From Similarities Between Audio Captions," in IEEE Signal Processing Letters, vol. 32, pp. 221-225, 2025, doi: 10.1109/LSP.2024.3511414. :fire::fire::fire:
 - :page_with_curl: **H. Xie**, K. Khorrami, O. Räsänen, and T. Virtanen, "Integrating Continuous and Binary Relevances in Audio-Text Relevance Learning," in Proc. Detect. Classif. Acoust. Scenes Events Work. (DCASE), 2024, pp. 201-205. [arXiv](https://arxiv.org/abs/2408.14939)
 - :page_with_curl: **H. Xie**, K. Khorrami, O. Räsänen, and T. Virtanen, "Crowdsourcing and Evaluating Text-Based Audio Retrieval Relevances," in Proc. Detect. Classif. Acoust. Scenes Events Work. (DCASE), 2023, pp. 226-230. [arXiv](https://arxiv.org/abs/2306.09820)
 - :page_with_curl: **H. Xie**, O. Räsänen, and T. Virtanen, "On Negative Sampling for Contrastive Audio-Text Retrieval," in Proc. Int. Conf. Acoustic., Speech and Signal Process. (ICASSP), 2023, pp. 1-5. [arXiv](https://arxiv.org/abs/2211.04070)
