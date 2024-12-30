@@ -1,5 +1,9 @@
 # Hello World! :wave: I'm Huang Xie (谢晃)
 
+> "Science is an error-correcting process."
+> 
+> — Charles S. Peirce
+
 ## :sparkles: About Me
 
 I'm a PhD student specializing in **Machine Learning and Signal Processing**, with a particular focus on **Audio-Language Learning** and **Audio Information Retrieval**.
