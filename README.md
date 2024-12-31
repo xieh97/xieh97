@@ -1,6 +1,8 @@
 # Hello World! :wave: I'm Huang Xie (谢晃)
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Science+is+an+error-correcting+process.&author=Charles+S.+Peirce)
+> "Science is an error-correcting process."
+> 
+> — Charles S. Peirce
 
 ## :sparkles: About Me
 
