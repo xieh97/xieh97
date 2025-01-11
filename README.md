@@ -18,7 +18,7 @@ My research involves _contrastive learning_, _zero-shot learning_, _multimodal l
 
 - :game_die: **Machine Learning / Deep Learning** ([PyTorch](https://pytorch.org/), [MLflow](https://mlflow.org/), [Ray Tune](https://docs.ray.io/en/latest/tune/index.html), [scikit-learn](https://scikit-learn.org/), etc.)
 - :chart_with_upwards_trend: **Data Analysis** ([NumPy](https://numpy.org/), [SciPy](https://scipy.org/), [pandas](https://pandas.pydata.org/), etc.)
-- :bookmark_tabs: **Audio & Text Analysis** ([librosa](https://librosa.org/), [NLTK](https://www.nltk.org/), etc.)
+- :memo: **Audio & Text Analysis** ([librosa](https://librosa.org/), [NLTK](https://www.nltk.org/), etc.)
 - :bar_chart: **Visualization** ([matplotlib](https://matplotlib.org/), etc.)
 - :rocket: **Software Development** ([Django](https://www.djangoproject.com/), [Spring](https://spring.io/), [Hibernate](https://hibernate.org/), etc.)
 - :computer: **Programming** (Python, Java, JavaScript, SQL, etc.)
