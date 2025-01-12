@@ -37,6 +37,7 @@ My research involves _contrastive learning_, _zero-shot learning_, _multimodal l
 
 ## :trophy: Activities
 
+- :man_scientist: Active reviewer for journals and conferences, including TASLP, SPL, ICASSP, INTERSPEECH, IJCNN, EUSIPCO, WASPAA, and others.
 - :technologist: Task coordinator for Language-based Audio Retrieval in DCASE Challenge 2024 ([Task 8](https://dcase.community/challenge2024/task-language-based-audio-retrieval)).
 - :technologist: Task coordinator for Automated Audio Captioning and Language-based Audio Retrieval in DCASE Challenge 2023 ([Task 6](https://dcase.community/challenge2023/task-automated-audio-captioning-and-language-based-audio-retrieval)).
 - :technologist: Task coordinator for Automated Audio Captioning and Language-based Audio Retrieval in DCASE Challenge 2022 ([Task 6](https://dcase.community/challenge2022/task-automatic-audio-captioning-and-language-based-audio-retrieval)).
