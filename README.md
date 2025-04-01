@@ -9,12 +9,13 @@
 
 I am a PhD student specializing in **Machine Learning and Signal Processing**, with a research focus on **Audio-Language Learning**, **Audio Information Retrieval**, and **Audio Content Analysis**.
 My work explores topics such as _contrastive learning_, _zero-shot learning_, _multimodal learning_, _language-based audio retrieval_, and _audio classification_.
+My full resume can be found [here](https://github.com/xieh97/assets/CV.pdf).
 
 
 ## :fire: Research Interests
 
 - **Audio-Language Learning** focuses on developing systems that integrate audio signals with natural language, enabling seamless interpretation and interaction between these modalities. It employs deep learning, transformer models, and multimodal alignment strategies to map audio features to textual representations. Common applications include audio captioning, spoken language understanding, language-based audio retrieval, and audio question answering.
-- **Audio Information Retrieval** involves analyzing and retrieving information from large-scale audio datasets. It leverages signal processing, feature extraction, machine learning, and indexing methods to organize and search audio content efficiently. Key applications include music recommendation, sound classification, similarity-based retrieval, and audio fingerprinting.
+- **Audio Information Retrieval** involves analyzing and retrieving unstructured information from large-scale audio datasets. It leverages signal processing, feature extraction, machine learning, and indexing methods to organize and search audio content efficiently. Key applications include music recommendation, sound classification, similarity-based retrieval, and audio fingerprinting.
 - **Audio Content Analysis** focuses on extracting meaningful patterns and insights from audio signals. It utilizes signal decomposition, feature extraction, deep learning, and statistical modeling to analyze different sound components. It enables tasks like speech recognition, sound event detection, audio sentiment analysis, and music genre classification.
 
 
