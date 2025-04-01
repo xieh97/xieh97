@@ -9,7 +9,7 @@
 
 I am a PhD student specializing in **Machine Learning and Signal Processing**, with a research focus on **Audio-Language Learning**, **Audio Information Retrieval**, and **Audio Content Analysis**.
 My work explores topics such as _contrastive learning_, _zero-shot learning_, _multimodal learning_, _language-based audio retrieval_, and _audio classification_.
-My full resume can be found [here](https://github.com/xieh97/assets/CV.pdf).
+My full resume can be found [here](https://github.com/xieh97/xieh97/blob/main/assets/CV.pdf).
 
 
 ## :fire: Research Interests
