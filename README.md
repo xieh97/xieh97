@@ -7,16 +7,16 @@
 
 ## :sparkles: About Me
 
-I am a PhD student specializing in **Machine Learning and Signal Processing**, with a research focus on **Audio-Language Learning**, **Audio Information Retrieval**, and **Audio Content Analysis**.
-My work explores topics such as _contrastive learning_, _zero-shot learning_, _multimodal learning_, _language-based audio retrieval_, and _audio classification_.
+I am a PhD student specializing in **Machine Learning and Signal Processing**, with a research focus on **Audio Understanding**, **Audio-Language Multimodal Learning**, and **Audio Information Retrieval**.
+My work explores topics such as _self-supervised learning_, _contrastive learning_, _zero-shot learning_, _multimodal learning_, _language-based audio retrieval_, and _audio classification_.
 My full resume can be found [here](https://github.com/xieh97/xieh97/blob/main/assets/CV.pdf).
 
 
 ## :fire: Research Interests
 
-- **Audio-Language Learning** focuses on developing systems that integrate audio signals with natural language, enabling seamless interpretation and interaction between these modalities. It employs deep learning, transformer models, and multimodal alignment strategies to map audio features to textual representations. Common applications include audio captioning, spoken language understanding, language-based audio retrieval, and audio question answering.
-- **Audio Information Retrieval** involves analyzing and retrieving unstructured information from large-scale audio datasets. It leverages signal processing, feature extraction, machine learning, and indexing methods to organize and search audio content efficiently. Key applications include music recommendation, sound classification, similarity-based retrieval, and audio fingerprinting.
-- **Audio Content Analysis** focuses on extracting meaningful patterns and insights from audio signals. It utilizes signal decomposition, feature extraction, deep learning, and statistical modeling to analyze different sound components. It enables tasks like speech recognition, sound event detection, audio sentiment analysis, and music genre classification.
+- **Audio Understanding** refers to the process of analyzing and interpreting audio signals to extract meaningful information. It involves various tasks such as speech recognition, sound event detection, music analysis, and speaker identification. The goal is to enable machines to comprehend and process auditory data in a way similar to human perception.
+- **Audio-Language Multimodal Learning** is a field of study that focuses on integrating both audio and textual (or spoken) information for machine learning applications. This involves training models to process and correlate audio signals (such as speech, sounds, or music) with textual data (such as captions, transcripts, or semantic labels). It is used in tasks like automatic subtitle generation, speech-to-text translation, and audio question answering.
+- **Audio Information Retrieval** is the process of indexing, searching, and retrieving audio content based on queries, which can be textual, acoustic, or semantic. It encompasses techniques such as music retrieval, sound classification, and spoken document retrieval. The aim is to develop efficient methods for organizing and accessing large-scale audio databases.
 
 
 ## :dart: Tech and Interests
