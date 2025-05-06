@@ -8,7 +8,7 @@ I'm a doctoral researcher at Tampere University, specializing in **machine learn
 Before entering research, I spent over 7 years as a software engineer, giving me a strong foundation in building scalable systems and solving real-world problems. I now work at the intersection of **ML research**, **software engineering**, and **AI-driven audio applications**, combining scientific depth with hands-on development skills.
 
 ## 🧠 Research Interests
-- 🎵 Machine Learning for Audio Understanding (classification, detection, retrieval, generation)
+- 🎧 Machine Learning for Audio Understanding (classification, detection, retrieval, generation)
 - 🔍 Self-Supervised and Contrastive Learning
 - 🔄 Multimodal Learning (audio + text/vision)
 - 🧩 Low-Resource Learning (zero-shot, few-shot)
@@ -16,7 +16,7 @@ Before entering research, I spent over 7 years as a software engineer, giving me
 ## 🛠️ Skills & Tools
 - 💻 **Programming**: Python, Java, Scala, Kotlin, C/C++, GDScript, JavaScript, SQL, HTML/CSS, R, Matlab, LaTeX
 - ⚛️ **ML & Data**: PyTorch, TensorFlow, scikit-learn, Ray Tune, MLflow, Spark, NumPy, SciPy, Pandas, Jupyter
-- 🗣️ **Audio / NLP**: librosa, torchaudio, NLTK
+- 🗣️ **Audio & NLP**: librosa, torchaudio, NLTK
 - 🌐 **Web & Backend**: Spring Boot, Java EE, Hibernate, Django, Flask
 - ⚙️ **Databases & DevOps**: MySQL, PostgreSQL, Docker, Git, Linux
 
