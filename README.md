@@ -9,7 +9,7 @@ Before entering research, I spent over 7 years as a software engineer, giving me
 
 ## 🧠 Research Interests
 - 🎧 Machine Learning for Audio Understanding (classification, detection, retrieval, generation)
-- 🔍 Self-Supervised and Contrastive Learning
+- 🔍 Self-Supervised Representation Learning
 - 🔄 Multimodal Learning (audio + text/vision)
 - 🧩 Low-Resource Learning (zero-shot, few-shot)
 
@@ -17,8 +17,8 @@ Before entering research, I spent over 7 years as a software engineer, giving me
 - 💻 **Programming**: Python, Java, Scala, Kotlin, C/C++, GDScript, JavaScript, SQL, HTML/CSS, R, Matlab, LaTeX
 - ⚛️ **ML & Data**: PyTorch, TensorFlow, scikit-learn, Ray Tune, MLflow, Spark, NumPy, SciPy, Pandas, Jupyter
 - 🗣️ **Audio & NLP**: librosa, torchaudio, NLTK
-- 🌐 **Web & Backend**: Spring Boot, Java EE, Hibernate, Django, Flask
-- ⚙️ **Databases & DevOps**: MySQL, PostgreSQL, Docker, Git, Linux
+- 🌐 **Web & Backend**: Java EE, Spring, Hibernate, Django, Flask
+- ⚙️ **Databases & DevOps**: MySQL, PostgreSQL, Docker, Git, Linux, HPC
 
 ## 🧪 Featured Projects
 - 🔎 [**Multimodal Audio-Text Retrieval System**](https://github.com/xieh97/text-audio-retrieval) – Developing models that match audio clips with text queries using multimodal learning.
