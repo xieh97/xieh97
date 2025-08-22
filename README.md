@@ -14,11 +14,14 @@ Before entering research, I spent over 7 years as a software engineer, giving me
 - 🧩 Low-Resource Learning (zero-shot, few-shot)
 
 ## 🛠️ Skills & Tools
-- 💻 **Programming**: Python, Java, Scala, Kotlin, C/C++, GDScript, JavaScript, SQL, HTML/CSS, R, Matlab, LaTeX
-- ⚛️ **ML & Data**: PyTorch, TensorFlow, scikit-learn, Ray Tune, MLflow, Spark, NumPy, SciPy, Pandas, Jupyter
+- 💻 **Programming**: Python, Java, Scala, JavaScript, SQL, C/C++, R, Matlab, LaTeX, GDScript
+- ⚛️ **Machine Learning**: PyTorch, TensorFlow, scikit-learn, Ray Tune, MLflow, Spark
 - 🗣️ **Audio & NLP**: librosa, torchaudio, NLTK
-- 🌐 **Web & Backend**: Java EE, Spring, Hibernate, Django, Flask
-- ⚙️ **Databases & DevOps**: MySQL, PostgreSQL, Docker, Git, Linux, HPC
+- 📊 **Data Analysis**: NumPy, SciPy, Pandas, Jupyter, Matplotlib
+- 🌐 **Web, Backend & Architectures**: Java EE, Spring, Hibernate, Django, Flask, RESTful APIs, Microservices, Event-Driven Architectures
+- 📱 **GUI & Game Development**: PySide6, Godot Engine
+- 🛢️ **Databases & DevOps**: MySQL, PostgreSQL, Linux, Docker, Git
+- ⚙️ **Concurrency & Systems**: Multi-threaded Programming, HPC
 
 ## 🧪 Featured Projects
 - 🔎 [**Multimodal Audio-Text Retrieval System**](https://github.com/xieh97/text-audio-retrieval) – Developing models that match audio clips with text queries using multimodal learning.
@@ -27,5 +30,5 @@ Before entering research, I spent over 7 years as a software engineer, giving me
 ## 💬 Let's Connect
 I'm always open to conversations about **audio ML**, **applied AI**, or building smart, sound-aware systems. Whether you're in research, industry, or tinkering with side projects — feel free to reach out!
 
-📫 **Email**: huang.xie@outlook.com  
+📫 **Email**: huang.xie@outlook.com
 🔗 **LinkedIn**: [linkedin.com/in/huang-xie-28b7872bb](https://linkedin.com/in/huang-xie-28b7872bb/)
