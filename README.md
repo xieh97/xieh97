@@ -5,9 +5,9 @@
 
 ## 🎓 About Me
 
-I'm a doctoral researcher at Tampere University, specializing in **machine learning for audio and multimodal
-understanding**. My passion is building AI systems that can interpret and respond to sound and language in ways that
-bring real-world value.
+I'm a doctoral researcher at Tampere University, specializing in **machine learning for audio-language understanding and
+multimodal modeling**. My passion is building AI systems that can interpret and respond to sound and language in ways
+that bring real-world value.
 
 Before entering research, I spent 7+ years as a **software engineer**, where I gained deep experience in scalable system
 design and practical problem-solving. Today, I work at the intersection of **ML research and software engineering**,
