@@ -34,15 +34,22 @@ combining scientific depth with hands-on development to create robust, efficient
 
 ## 🧪 Featured Projects
 
-- 🔎 [**Multimodal Audio-Text Retrieval System**](https://github.com/xieh97/text-audio-retrieval) – Developing models
-  that match audio clips with text queries using multimodal learning.
-- 🤖 **X-GoBot** – 🔧[WIP] Developing a voice-enabled desktop AI assistant with local processing and contextual awareness.
+- 🧬 [Audio-Text Semantic Alignment using Unsupervised Learning](https://github.com/xieh97/audio-text-semantic-alignment)
+- 🔎 [Negative Sampling in Contrastive Learning of Audio-Text Representations](https://github.com/xieh97/contrastive-negative-sampling)
+- 🦻 [Subjective Evaluation of Audio-Text Semantic Relevance](https://github.com/xieh97/audio-text-graded-relevance)
+- ♻️ [Estimating Audio-Text Semantic Relevance through Audio Captions](https://github.com/xieh97/text-audio-retrieval)
+- 🌐 [Baseline System for Language-Based Audio Retrieval (Task 6B) in DCASE 2023 Challenge](https://github.com/xieh97/dcase2023-audio-retrieval)
+- 🌐 [Baseline System for Language-Based Audio Retrieval (Task 6B) in DCASE 2022 Challenge](https://github.com/xieh97/dcase2022-audio-retrieval)
+
+[//]: # (- 🔎 [**Multimodal Audio-Text Retrieval System**]&#40;https://github.com/xieh97/text-audio-retrieval&#41; – Developing models)
+[//]: # (  that match audio clips with text queries using multimodal learning.)
+[//]: # (- 🤖 **X-GoBot** – 🔧[WIP] Developing a voice-enabled desktop AI assistant with local processing and contextual awareness.)
 
 ## 💬 Let's Connect
 
-I'm always happy to chat about **audio ML**, **applied AI**, or building systems that make sense of sound. Whether
-you're hacking on a side project, exploring new ideas, or working in research — feel free to reach out, I'd love to
-exchange thoughts!
+Happy to discuss **multimodal ML**, **applied AI**, or the challenges of building multimodal AI systems. Whether you're
+hacking on a side project, exploring new ideas, or working in research — feel free to reach out, I'd love to exchange
+thoughts!
 
 📫 **Email**: huang.xie@outlook.com
 🔗 **LinkedIn**: [linkedin.com/in/huang-xie-28b7872bb](https://linkedin.com/in/huang-xie-28b7872bb/)
