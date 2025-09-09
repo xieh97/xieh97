@@ -38,8 +38,10 @@ combining scientific depth with hands-on development to create robust, efficient
 - 🔎 [Negative Sampling in Contrastive Learning of Audio-Text Representations](https://github.com/xieh97/contrastive-negative-sampling)
 - 🦻 [Subjective Evaluation of Audio-Text Semantic Relevance](https://github.com/xieh97/audio-text-graded-relevance)
 - ♻️ [Estimating Audio-Text Semantic Relevance through Audio Captions](https://github.com/xieh97/text-audio-retrieval)
-- 🌐 [Baseline System for Language-Based Audio Retrieval (Task 6B) in DCASE 2023 Challenge](https://github.com/xieh97/dcase2023-audio-retrieval)
-- 🌐 [Baseline System for Language-Based Audio Retrieval (Task 6B) in DCASE 2022 Challenge](https://github.com/xieh97/dcase2022-audio-retrieval)
+- 🌐 [DCASE 2025 Challenge Task 6: Language-Based Audio Retrieval](https://dcase.community/challenge2025/task-language-based-audio-retrieval)
+- 🌐 [DCASE 2024 Challenge Task 8: Language-Based Audio Retrieval](https://dcase.community/challenge2024/task-language-based-audio-retrieval)
+- 🌐 [DCASE 2023 Challenge Task 6: Automated Audio Captioning and Language-Based Audio Retrieval](https://dcase.community/challenge2023/task-automated-audio-captioning-and-language-based-audio-retrieval)
+- 🌐 [DCASE 2022 Challenge Task 6: Automated Audio Captioning and Language-Based Audio Retrieval](https://dcase.community/challenge2022/task-automatic-audio-captioning-and-language-based-audio-retrieval)
 
 [//]: # (- 🔎 [**Multimodal Audio-Text Retrieval System**]&#40;https://github.com/xieh97/text-audio-retrieval&#41; – Developing models)
 [//]: # (  that match audio clips with text queries using multimodal learning.)
